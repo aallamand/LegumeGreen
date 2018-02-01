@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -56,45 +56,45 @@
 		39F3C0AD6F461EBFB9F36063ED7F0061 /* Pods-LegumeGreenTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LegumeGreenTests.debug.xcconfig"; sourceTree = "<group>"; };
 		3ADA2C3CBD3A77E4E0599A0F9BCD54CF /* Pods-LegumeGreenTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LegumeGreenTests-dummy.m"; sourceTree = "<group>"; };
 		3B020242B1CA34E0F697D2EB4A8E1499 /* Pods-LegumeGreenTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LegumeGreenTests-umbrella.h"; sourceTree = "<group>"; };
-		3E808C9D320C0A51660371CA712C7786 /* Pods_LegumeGreen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LegumeGreen.framework; path = "Pods-LegumeGreen.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4DE7B4392B748BC2DA93B74691711B3D /* Pods_LegumeGreenUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LegumeGreenUITests.framework; path = "Pods-LegumeGreenUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E808C9D320C0A51660371CA712C7786 /* Pods_LegumeGreen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LegumeGreen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DE7B4392B748BC2DA93B74691711B3D /* Pods_LegumeGreenUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LegumeGreenUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5080EE62127E017DF4DBE560921938D9 /* Visit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Visit.swift; path = Turbolinks/Visit.swift; sourceTree = "<group>"; };
 		596A5E7C40FB07FDAA78D426185FA95B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		597B2F5DE802033007556A5A059DFB2D /* Turbolinks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Turbolinks.framework; path = Turbolinks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B31D3CAA6715C56FC67E22D3DB65E39 /* Pods_LegumeGreenTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LegumeGreenTests.framework; path = "Pods-LegumeGreenTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		597B2F5DE802033007556A5A059DFB2D /* Turbolinks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Turbolinks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5B31D3CAA6715C56FC67E22D3DB65E39 /* Pods_LegumeGreenTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LegumeGreenTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72C328A0D212DF1A0410F39B721AF085 /* Turbolinks.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Turbolinks.xcconfig; sourceTree = "<group>"; };
 		72FD6BFC79943EFC3F58C983B2157EB2 /* Pods-LegumeGreen-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LegumeGreen-frameworks.sh"; sourceTree = "<group>"; };
 		777FB83280F5CB117DF5A45C46047A18 /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = Turbolinks/Error.swift; sourceTree = "<group>"; };
 		7DA624531A7923A1854DE402F58DD337 /* Pods-LegumeGreenUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LegumeGreenUITests-frameworks.sh"; sourceTree = "<group>"; };
-		7E0107E344BEFDC79B721FF2BD75228D /* Pods-LegumeGreen.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-LegumeGreen.modulemap"; sourceTree = "<group>"; };
+		7E0107E344BEFDC79B721FF2BD75228D /* Pods-LegumeGreen.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LegumeGreen.modulemap"; sourceTree = "<group>"; };
 		831BC24325654C3C21896D26AC38E537 /* ScriptMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScriptMessage.swift; path = Turbolinks/ScriptMessage.swift; sourceTree = "<group>"; };
 		86658A78CCDED7CC7CDA704E9F2626F6 /* Pods-LegumeGreenUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LegumeGreenUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		919B676C33FD8502AEC035C69C3B27F7 /* Pods-LegumeGreenUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LegumeGreenUITests-dummy.m"; sourceTree = "<group>"; };
 		9381A29209A8DC062341A54BCF39ED4B /* Pods-LegumeGreen-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LegumeGreen-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96BB552C46562E853C81CF76BF0D6E33 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C46C31011CE7D223A8D228DA30DDD32 /* Pods-LegumeGreenUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LegumeGreenUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A359E20EB9CE17874163BF35AEDF6F32 /* VisitableViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VisitableViewController.swift; path = Turbolinks/VisitableViewController.swift; sourceTree = "<group>"; };
 		A61011C42D5D02E4C79C5E1C6FE52BB5 /* Pods-LegumeGreenUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LegumeGreenUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A7DFDB5586931A97A1336BF00AF63CBE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AB5DDA2D1299C968D82B75D005249C15 /* Pods-LegumeGreenUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-LegumeGreenUITests.modulemap"; sourceTree = "<group>"; };
+		AB5DDA2D1299C968D82B75D005249C15 /* Pods-LegumeGreenUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LegumeGreenUITests.modulemap"; sourceTree = "<group>"; };
 		ADC68646BF50E50B6F11B25366F2B600 /* Pods-LegumeGreenUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LegumeGreenUITests-umbrella.h"; sourceTree = "<group>"; };
 		B262CDAFBC99EB5D96C5ADFD2E27F994 /* Pods-LegumeGreenTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LegumeGreenTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B60D5126E6B1F326B3515FC02CDEA232 /* Session.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Session.swift; path = Turbolinks/Session.swift; sourceTree = "<group>"; };
 		C1B0B8CF5C10D813F32702A105B3606A /* VisitableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VisitableView.swift; path = Turbolinks/VisitableView.swift; sourceTree = "<group>"; };
 		C6461E6DB7FA8D4EE80EC3DC51F7BC83 /* Pods-LegumeGreen-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LegumeGreen-umbrella.h"; sourceTree = "<group>"; };
-		CFE64DBF9E814A91A03C237875CB1A0A /* Pods-LegumeGreenTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-LegumeGreenTests.modulemap"; sourceTree = "<group>"; };
+		CFE64DBF9E814A91A03C237875CB1A0A /* Pods-LegumeGreenTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LegumeGreenTests.modulemap"; sourceTree = "<group>"; };
 		D2A721BC1E10FDB1A477F048A5727A44 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA6FE5F5969A9613079FBE58A03EE2E9 /* Pods-LegumeGreenTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LegumeGreenTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DE991EBA414DBDAB42796F4F323FABC6 /* Pods-LegumeGreenTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LegumeGreenTests-resources.sh"; sourceTree = "<group>"; };
-		E6BD63308612F423726A74D80B0BAF67 /* Turbolinks.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Turbolinks.modulemap; sourceTree = "<group>"; };
+		E6BD63308612F423726A74D80B0BAF67 /* Turbolinks.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Turbolinks.modulemap; sourceTree = "<group>"; };
 		EA8D75A6BB7D33AE93EE8490558BDBAD /* Visitable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Visitable.swift; path = Turbolinks/Visitable.swift; sourceTree = "<group>"; };
 		EC0F2C18A3B59827CDFD59A71F30AB5F /* Turbolinks-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Turbolinks-umbrella.h"; sourceTree = "<group>"; };
 		ED5FBEB80F0F37CB9411CBE85BE324BF /* Pods-LegumeGreenUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LegumeGreenUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		EDDB8272AF7DA52CED82F42852514AD3 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/WebKit.framework; sourceTree = DEVELOPER_DIR; };
 		EF6242D3F683768EB7A69461AF944CB1 /* Pods-LegumeGreenTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LegumeGreenTests-frameworks.sh"; sourceTree = "<group>"; };
 		F3CB0A2BCA331B93DC7FAF97A33A2736 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F73696591DF4A0121FE93882475CAC1F /* WebView.js */ = {isa = PBXFileReference; includeInIndex = 1; name = WebView.js; path = Turbolinks/WebView.js; sourceTree = "<group>"; };
+		F73696591DF4A0121FE93882475CAC1F /* WebView.js */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.javascript; name = WebView.js; path = Turbolinks/WebView.js; sourceTree = "<group>"; };
 		F8A31E091F6D31F1DA72F7EC2ED968F7 /* Pods-LegumeGreen-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LegumeGreen-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -150,7 +150,6 @@
 				68A5CF8F3DEB5C912169F31DEC7A8B09 /* Resources */,
 				C5975DF54413356263EA4BF97B0D2CBE /* Support Files */,
 			);
-			name = Turbolinks;
 			path = Turbolinks;
 			sourceTree = "<group>";
 		};
@@ -402,7 +401,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0920;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -669,6 +668,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
